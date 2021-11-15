@@ -1,1 +1,2 @@
 # ProyectoNextSmart
+Presentación: Tomás Rodríguez
